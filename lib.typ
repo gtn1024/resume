@@ -27,6 +27,7 @@
 #let phone-icon = box(fa-icon("square-phone", fill: color-darknight))
 #let email-icon = box(fa-icon("envelope", fill: color-darknight))
 #let birth-icon = box(fa-icon("cake", fill: color-darknight))
+#let homepage-icon = box(fa-icon("home", fill: color-darknight))
 
 /// Helpers
 
@@ -160,7 +161,7 @@
   )
   
   set text(
-    font: ("Source Sans Pro", "Source Sans 3"),
+    font: ("PingFang SC", "Source Sans Pro", "Source Sans 3"),
     lang: language,
     size: 11pt,
     fill: color-darkgray,
@@ -323,6 +324,11 @@
           #if ("email" in author) [
             #email-icon
             #box[#link("mailto:" + author.email)[#author.email]]
+          ]
+          #if ("homepage" in author) [
+            #separator
+            #homepage-icon
+            #box[#link(author.homepage)[#author.homepage]]
           ]
           #if ("github" in author) [
             #separator

@@ -5,6 +5,7 @@
     firstname: "葛",
     lastname: "涛宁",
     email: "gtn1024@foxmail.com",
+    homepage: "https://gtn1024.me",
     // phone: "(+1) 111-111-1111",
     github: "gtn1024",
     // twitter: "typstapp",
@@ -42,13 +43,14 @@
 #resume-entry(
   title: "基于 Spring Boot 和 React.js 的分布式 OJ 系统",
   location: [#github-link("ntoj/ntoj")],
-  date: "2023 年 6 月 - 2023 年 10 月",
+  date: "2023 年 6 月 - 2024 年 5 月",
   description: "全栈开发",
 )
 
 #resume-item[
   - 分布式架构的在线评测平台，可随意增删后端节点、评测节点。通过 #strong("HTTP 协议") 实现后端与评测节点的通信。
   - 使用 RBAC 模型进行身份验证
+  - 获得软件著作权（#strong("针对编程学习的综合智能教辅平台")）一项，登记号：#strong("2024SR0872447")
 ]
 
 #resume-entry(
