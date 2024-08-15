@@ -17,7 +17,7 @@
       "后端开发工程师",
     ),
   ),
-  date: datetime.today().display(),
+  date: "",
   language: "zh",
   colored-headers: false,
 )
