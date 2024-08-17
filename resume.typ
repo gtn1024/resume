@@ -23,6 +23,10 @@
   colored-headers: true,
 )
 
+#set text(
+  font: ("PingFang SC", "Source Sans Pro", "Source Sans 3"),
+)
+
 = 实习经历
 
 #resume-entry(

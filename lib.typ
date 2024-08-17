@@ -161,7 +161,7 @@
   )
   
   set text(
-    font: ("PingFang SC", "Source Sans Pro", "Source Sans 3"),
+    font: ("Source Sans Pro", "Source Sans 3"),
     lang: language,
     size: 11pt,
     fill: color-darkgray,
