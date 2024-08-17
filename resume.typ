@@ -35,7 +35,7 @@
 
 #resume-item[
   - 开发程序设计竞赛数据库平台 CPC Finder
-  - 在线评测平台的开发
+  - 在线评测平台的开发，引入 #strong("阿里云") 短信服务
   - 将公司项目的 Git 仓库与上游的提交历史进行同步，以便后续版本的更新和维护
 ]
 
@@ -85,7 +85,8 @@
 - 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
 - 了解 Netty、Vert.x、Quarkus 等异步 / 响应式开发框架
-- 熟悉 #strong("React.js")、Vue.js 等大前端开发框架
+- 熟悉 Node.js、Express、Koa 等后端开发框架
+- 熟悉 #strong("React.js")、Vue.js 等前端开发框架
 - 掌握 Linux 操作系统，熟悉 Docker、GitHub Actions 等 CI/CD 工具
 
 = 荣誉奖项
@@ -94,7 +95,7 @@
 #resume-certification(strong("第 14 届蓝桥杯大赛 C/C++ B 组国赛三等奖"), "2023/05")
 #resume-certification(strong("2023 江苏省大学生程序设计竞赛（JSCPC）铜牌"), "2023/05")
 #resume-certification("2023 团体程序设计天梯赛团队三等奖", "2023/04")
-#resume-certification("第 4 届教师节能力挑战赛 Java 组国赛一等奖", "2022/12")
+#resume-certification("第 4 届计算机能力挑战赛 Java 组国赛一等奖", "2022/12")
 #resume-certification("第 13 届蓝桥杯大赛 Java B 组省赛二等奖", "2022/04")
 
 = 教育经历
@@ -102,11 +103,31 @@
 #resume-entry(
   title: "南京邮电大学通达学院",
   location: "江苏扬州",
-  date: "2021 年 9 月 - 2025 年 6 月",
-  description: "软件工程",
 )
 
 #resume-item[
+  #block[
+    #box[
+      === 网络工程（嵌入式培养）
+      #box(width: 1fr)[
+        #align(right)[
+          2021 年 9 月 - 2022 年 6 月
+        ]
+      ]
+    ]
+    #box[
+      === 软件工程
+      #box(width: 1fr)[
+        #align(right)[
+          2022 年 6 月 - 2025 年 6 月
+        ]
+      ]
+    ]
+  ]
+]
+
+#resume-item[
+  - 主修课程：#strong("软件工程")、#strong("软件体系结构")、#strong("UML系统分析与设计")、#strong("数据结构")、#strong("算法分析与设计")、#strong("计算机网络")、#strong("数据库系统")、高级语言程序设计、面向对象程序设计
   - 平均绩点 4.13/5.0，专业排名前 10%
   - 获得 #strong("三好学生 1 次")、#strong("二等奖学金 2 次")
   - 多次参与迎新志愿服务
