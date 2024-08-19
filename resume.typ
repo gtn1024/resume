@@ -88,6 +88,7 @@
 
 - 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
+- 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令
 - 了解 Netty、Vert.x、Quarkus 等异步 / 响应式开发框架
 - 熟悉 Node.js、Express、Koa 等后端开发框架
 - 熟悉 #strong("React.js")、Vue.js 等前端开发框架
