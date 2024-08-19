@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: typst-community/setup-typst@v3
-      - run: typst compile resume.typ
+      - run: typst compile resume.typ --font-path fonts
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
