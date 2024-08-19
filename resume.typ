@@ -90,16 +90,18 @@
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
 - 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令
 - 了解 Netty、Vert.x、Quarkus 等异步 / 响应式开发框架
-- 熟悉 Node.js、Express、Koa 等后端开发框架
-- 熟悉 #strong("React.js")、Vue.js 等前端开发框架
+- 了解 MySQL、PostgreSQL、Redis、MongoDB 等数据库，熟悉 SQL 语言
+- 了解计算机网络的基本知识，熟悉 HTTP、TCP/IP 协议
 - 掌握 Linux 操作系统，熟悉 Docker、GitHub Actions 等 CI/CD 工具
-
+- 了解 Node.js、Express、Koa 等后端开发框架
+- 熟悉 #strong("React.js")、Vue.js 等前端开发框架
+- 了解 Ruby 语言，熟悉 Ruby on Rails 框架
 
 = 荣誉奖项
 
-#resume-certification(strong("第 48 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（杭州）铜牌"), "2023/12")
-#resume-certification(strong("第 14 届蓝桥杯大赛 C/C++ B 组国赛三等奖"), "2023/05")
-#resume-certification(strong("2023 江苏省大学生程序设计竞赛（JSCPC）铜牌"), "2023/05")
+#resume-certification("第 48 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（杭州）铜牌", "2023/12")
+#resume-certification("第 14 届蓝桥杯大赛 C/C++ B 组国赛三等奖", "2023/05")
+#resume-certification("2023 江苏省大学生程序设计竞赛（JSCPC）铜牌", "2023/05")
 #resume-certification("2023 团体程序设计天梯赛团队三等奖", "2023/04")
 #resume-certification("第 4 届计算机能力挑战赛 Java 组国赛一等奖", "2022/12")
 #resume-certification("第 13 届蓝桥杯大赛 Java B 组省赛二等奖", "2022/04")
