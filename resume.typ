@@ -48,7 +48,7 @@
 #resume-entry(
   title: "CPC Finder",
   // location: [#link("https://cpcfinder.com")],
-  description: "厦门代码源教育科技有限公司 - 全栈开发",
+  // description: "厦门代码源教育科技有限公司 - 全栈开发",
 )
 
 #resume-item[
@@ -63,8 +63,8 @@
 #resume-entry(
   title: "NTOJ - 基于 Spring Boot 和 React.js 的分布式 OJ 系统",
   location: [#github-link("ntoj/ntoj")],
-  date: "2023 年 6 月 - 2024 年 5 月",
-  description: "全栈开发",
+  // date: "2023 年 6 月 - 2024 年 5 月",
+  // description: "全栈开发",
 )
 
 #resume-item[
@@ -76,8 +76,8 @@
 #resume-entry(
   title: "基于 Spring Boot 和 Vue 的 ACM 校队管理平台",
   location: github-link("nytdacm-dev/oa"),
-  date: "2023 年 2 月 - 2023 年 5 月",
-  description: "全栈开发",
+  // date: "2023 年 2 月 - 2023 年 5 月",
+  // description: "全栈开发",
 )
 
 #resume-item[
@@ -93,6 +93,7 @@
 - 熟悉 Node.js、Express、Koa 等后端开发框架
 - 熟悉 #strong("React.js")、Vue.js 等前端开发框架
 - 掌握 Linux 操作系统，熟悉 Docker、GitHub Actions 等 CI/CD 工具
+
 
 = 荣誉奖项
 
