@@ -15,7 +15,7 @@
     // address: "111 Example St. Example City, EX 11111",
     positions: (
       "后端开发工程师",
-      "全栈开发工程师",
+      // "全栈开发工程师",
     ),
   ),
   date: "",
