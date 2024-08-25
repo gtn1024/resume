@@ -86,7 +86,8 @@
 
 = 技能清单
 
-- 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言
+- RTFM、STFW、STFSC
+- 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言。了解 Ruby 语言、Ruby on Rails
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
 - 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令
 - 了解 Netty、Vert.x、Quarkus 等异步 / 响应式开发框架
@@ -95,7 +96,6 @@
 - 掌握 Linux 操作系统，熟悉 Docker、GitHub Actions 等 CI/CD 工具
 - 了解 Node.js、Express、Koa 等后端开发框架
 - 熟悉 #strong("React.js")、Vue.js 等前端开发框架
-- 了解 Ruby 语言、Ruby on Rails 框架
 
 = 荣誉奖项
 
