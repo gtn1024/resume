@@ -95,7 +95,7 @@
 - 掌握 Linux 操作系统，熟悉 Docker、GitHub Actions 等 CI/CD 工具
 - 了解 Node.js、Express、Koa 等后端开发框架
 - 熟悉 #strong("React.js")、Vue.js 等前端开发框架
-- 了解 Ruby 语言，熟悉 Ruby on Rails 框架
+- 了解 Ruby 语言、Ruby on Rails 框架
 
 = 荣誉奖项
 
