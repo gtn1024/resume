@@ -21,10 +21,7 @@
   date: "",
   language: "zh",
   colored-headers: true,
-)
-
-#set text(
-  font: ("PingFang SC", "Source Sans Pro", "Source Sans 3"),
+  font: "PingFang SC"
 )
 
 = 实习经历
@@ -89,7 +86,7 @@
 - RTFM、STFW、STFSC
 - 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言。了解 Ruby 语言、Ruby on Rails
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
-- 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令
+- 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令。熟练使用 GitHub、GitLab、云效等代码托管平台
 - 了解 Netty、Vert.x、Quarkus 等异步 / 响应式开发框架
 - 了解 MySQL、PostgreSQL、Redis、MongoDB 等数据库，熟悉 SQL 语言
 - 了解计算机网络的基本知识，熟悉 HTTP、TCP/IP 协议
