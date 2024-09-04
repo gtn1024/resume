@@ -47,7 +47,7 @@
 
 #resume-entry(
   title: "CPC Finder",
-  // location: [#link("https://cpcfinder.com")],
+  location: [#link("https://cpcfinder.com")],
   // description: "厦门代码源教育科技有限公司 - 全栈开发",
 )
 
