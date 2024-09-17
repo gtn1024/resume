@@ -59,7 +59,7 @@
 
 #resume-entry(
   title: "NTOJ - 基于 Spring Boot 和 React.js 的分布式 OJ 系统",
-  location: [#github-link("ntoj/ntoj")],
+  location: [#github-link("gtn1024/ntoj")],
   // date: "2023 年 6 月 - 2024 年 5 月",
   // description: "全栈开发",
 )

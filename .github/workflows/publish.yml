@@ -12,6 +12,9 @@ jobs:
         with:
           name: resume.pdf
           path: resume.pdf
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Update'
       - name: Get current date
         id: date
         run: echo "DATE=$(date +%Y-%m-%d-%H:%M)" >> $GITHUB_ENV
