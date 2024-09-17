@@ -3,6 +3,8 @@ on: push
 jobs:
   render-resume:
     runs-on: macos-14
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: typst-community/setup-typst@v3
