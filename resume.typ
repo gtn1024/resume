@@ -24,6 +24,8 @@
   font: "PingFang SC"
 )
 
+#show link: set text(fill: blue)
+
 = 实习经历
 
 #resume-entry(
@@ -35,7 +37,7 @@
 )
 
 #resume-item[
-  - 开发程序设计竞赛数据库平台 CPC Finder
+  - 独立开发程序设计竞赛数据库平台 CPC Finder
   - 在线评测平台的开发，引入 #strong("阿里云") 短信服务
   - 将公司项目的 Git 仓库与上游的提交历史进行同步，以便后续版本的更新和维护
 ]
@@ -52,7 +54,7 @@
   - 主要用于查询程序设计类竞赛（如 ICPC、CCPC）选手的比赛经历，支持通过学生姓名、学校等方式进行搜索
   - 项目后端使用 #strong("Quarkus") 框架进行开发
   - 使用 #strong("Hibernate ORM") 进行数据库操作，#strong("Flyway") 进行数据库版本控制，使用 #strong("PostgreSQL") 作为数据库
-  - 使用 #strong("Docker/TestContainers") 构建测试环境，编写单元测试、集成测试。并使用 GitHub Actions 进行 CI/CD
+  - 使用 #strong("Docker/TestContainers") 构建测试环境，编写单元测试、集成测试。并使用 GitHub Actions 进行 #strong("CI/CD")
   - 使用 JaCoCo 进行代码覆盖率测试
   - 前端使用 #strong("React.js")、#strong("Tailwind CSS")、shadcn/ui 等技术进行开发
 ]
@@ -87,12 +89,12 @@
 - 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言。了解 Ruby 语言、Ruby on Rails
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
 - 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令。熟练使用 GitHub、GitLab、云效等代码托管平台
-- 了解 Netty、Vert.x、Quarkus 等异步 / 响应式开发框架
+- 了解 Vert.x、Quarkus 等异步 / 响应式开发框架
 - 了解 MySQL、PostgreSQL、Redis、MongoDB 等数据库，熟悉 SQL 语言
 - 了解计算机网络的基本知识，熟悉 HTTP、TCP/IP 协议
-- 掌握 Linux 操作系统，熟悉 Docker、GitHub Actions 等 CI/CD 工具
-- 了解 Node.js、Express、Koa 等后端开发框架
+- 掌握 Linux 操作系统，熟悉 #strong("Docker")、#strong("GitHub Actions") 等 CI/CD 工具
 - 熟悉 #strong("React.js")、Vue.js 等前端开发框架
+- 了解 #strong("仓颉编程语言")，开发的 #strong(link("https://github.com/gtn1024/snowflake4cj", "snowflake4cj"))、#strong(link("https://github.com/gtn1024/cjdotenv", "cjdotenv")) 均已进入 #strong(link("https://gitcode.com/Cangjie-SIG/", "仓颉官方 SIG 组织")) 孵化。
 
 = 荣誉奖项
 
@@ -135,6 +137,7 @@
   - 主修课程：#strong("软件工程")、#strong("软件体系结构")、#strong("UML系统分析与设计")、#strong("数据结构")、#strong("算法分析与设计")、#strong("计算机网络")、#strong("数据库系统")、高级语言程序设计、面向对象程序设计
   - 平均绩点 4.13/5.0，专业排名前 10%
   - 获得 #strong("三好学生 1 次")、#strong("二等奖学金 2 次")
+  - 在校期间，取得 #strong("CET-4")、#strong("CET-6")、#strong("江苏省计算机二级") 等资格证书
   - 多次参与迎新志愿服务
 ]
 
