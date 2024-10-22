@@ -38,7 +38,7 @@
 
 #resume-item[
   - 独立开发程序设计竞赛数据库平台 CPC Finder。
-  - 开发工单模块，便于用户在使用平台时遇到问题时，可以获取到技术支持。后端与前端之间使用 #strong("WebSocket") 进行通信，实现实时答疑功能。同时，管理员可以在后台查看工单处理情况，便于后续的数据分析、相关人员的绩效考核等。
+  - 开发工单平台，便于用户在使用平台时遇到问题时，可以获取到技术支持。后端与前端之间使用 #strong("WebSocket") 进行通信，实现实时答疑功能。同时，管理员可以在后台查看工单处理情况，便于后续的数据分析、相关人员的绩效考核等。
 ]
 
 = 项目经历
@@ -85,7 +85,7 @@
 = 技能清单
 
 - RTFM、STFW、STFSC
-- 熟练掌握 #strong("Java")、#strong("Kotlin")，熟悉 JavaScript、TypeScript 等编程语言。了解 Ruby 语言、Ruby on Rails
+- 熟练掌握 #strong("Java")、#strong("Kotlin")、JavaScript、TypeScript 等编程语言。
 - 熟练掌握 #strong("Spring Boot") 框架，熟悉 #strong("Gradle")、Maven 构建工具
 - 熟悉 #strong("Git") 工具，能够使用 bisect、rebase 等高级命令。熟练使用 GitHub、GitLab、云效等代码托管平台
 - 了解 Vert.x、Quarkus 等异步 / 响应式开发框架
